@@ -1,6 +1,3 @@
-# Lagger
-Lag your PC!
----
 Lagger is a app that just lags your PC.
 
 *"HOW IT WORKS?"*
